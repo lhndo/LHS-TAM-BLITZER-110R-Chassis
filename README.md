@@ -44,8 +44,17 @@ https://tamico.de
 - Tamiya #53218 Hard Joint Cup(for Gear Diff)
 - Tamiya #13485038 5x28mm GEAR SHAFT
 - Arrma ARA311075 Steel Pinion CNC Machined 12T 0.8 Mod 3.175 mm Bore
-- Tamiya #50449 Stadium Blitzer F. Tires
-- Tamiya #50450 Stadium Blitzer R. Tires
+- Tires
+  - Tamiya #50449 Stadium Blitzer F. Tires
+  - Tamiya #50450 Stadium Blitzer R. Tires
+- Bearings MR115 x 12
+- Shocks 
+  - Front: 70-75mm  (eye to eye)
+  - Rear: 95-100mm  
+  - Oil ~600 CST 
+- Screws, washers, nuts (tbd)
+- M3 Tap, Super lube, CA Glue, Loctite Extreme Glue - No Drip Gel (For TPU)
+- Electronics
 
 - ...
 

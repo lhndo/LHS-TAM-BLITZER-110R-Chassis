@@ -43,7 +43,7 @@ https://tamico.de
 - Tamiya #19805551 Drive shaft for 58067 *2
 - Tamiya #53218 Hard Joint Cup(for Gear Diff)
 - Tamiya #13485038 5x28mm GEAR SHAFT
-- Arrma ARA311075 Steel Pinion CNC Machined 12T 0.8 Mod 3.175 mm Bore
+- Arrma ARA311075 Steel Pinion CNC Machined 13T 0.8 Mod 3.175 mm Bore
 - Tires
   - Tamiya #50449 Stadium Blitzer F. Tires
   - Tamiya #50450 Stadium Blitzer R. Tires

@@ -1,5 +1,5 @@
 # LHS TAM BLITZER 1/10 R Chassis
-![](Images/RC1.png)
+![](Images/RC4.jpg)
 
 
 ## Video
@@ -77,7 +77,10 @@ Notes:
 
 # Media
 
+![](Images/RC5.jpg)
+![](Images/RC4.jpg)
 ![](Images/RC1.png)
 ![](Images/RC2.png)
 ![](Images/RC3.png)
+
 

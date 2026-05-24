@@ -59,15 +59,14 @@ Notes:
 - The rear suspension post is composed by two parts that need to be glued together. 
   - Use filament dowels for alignment.
   - Do the same for the attachments on the main body/battery box. 
-- Use an M3 tap for parts that screw directly into the plastic. These are designed with 2.6mm diameter holes.
+- Use an M3 tap for parts that screw directly into the plastic. These are designed with 2.6mm diameter holes that HAVE to be tapped.
 - Don't over torque the screws
-- Add a coating of CA glue to parts that rub together, such as the suspension arms mounts or hubs. 
 - Expect parts to be stiffer in the beginning and loosen up after a break-in period 
 - Inject Super Lube into the holes that receive screws as axles (arms, hubs, etc). 
-- Add a generous amount of Super Lube to the spur gears and differential.  
+- Add a generous amount of Super Lube to the spur gears, differential (inside and out), and pinion gear.  
 - Glue the TPU parts with Loctite Extreme Glue, Shoe Glue, E6000 etc.
 - Don't overtighten the M4 lock nuts on the front wheels. Just enough so they spin freely.
-- Lock the wheelie bar nut and screw with CA glue
+- Lock the wheelie bar nut with CA glue
 - Lock the middle nut on the steering faux turnbuckle screws with CA glue
 - For best performance the tires will need to be set with foams and glued to the rim 
 - Enjoy!

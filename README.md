@@ -32,11 +32,12 @@ Weight: 2250g (4600mAh NiMh battery included)
 
 - The provided 3mf project files are set up for Orca Slicer and have extensive per-part settings for best print/performance
 
-PCTG, PLA+
+PLA+
+_(Initial prototypes were printed in PCTG/PETG, but PLA+ with high toughness fared much better long term)_
 
 ![](Images/OS.png)
 
-TPU 95A
+TPU (95/98A)
 
 ![](Images/OS_TPU.png)
 
